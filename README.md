@@ -3,7 +3,7 @@
 
 This paper proposes a dataset to evaluate lexical translation consistency in Chinese-to-English document-level translation.
 
-This dataset ontains a total of 310 bilingual news articles from China Daily, with a total of 5,051 sentences, and an average of 16 sentences per article. 
+This dataset contains a total of 310 bilingual news articles from China Daily, with a total of 5,051 sentences, and an average of 16 sentences per article. 
 
 #### If you use the dataset for your research, please cite:
 ```
