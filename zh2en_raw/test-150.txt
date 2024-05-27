@@ -1,0 +1,17 @@
+一家总部在美国匹兹堡的机器人与工程初创企业近日推出了一款名为“月球漫步者”的电池供电鞋，据称可以将步行速度提高250%之多。 ||| A Pittsburgh-based robotics and engineering startup recently unveiled Moonwalkers, a pair of battery-powered shoes that it claims can boost walk speeds by up to 250%.
+乍看之下，“月球漫步者”就像一双未来主义风格的旱冰鞋，但实际上鞋里大有乾坤。 ||| At first glance, Moonwalkers look like a pair of futuristic roller-skates, but there is actually a lot more to them than that.
+你穿着它可以像穿普通鞋子或跑鞋一样走路，让电动轮助你脚下生风。 ||| You’re actually meant to walk with them the way you would regular shoes or sneakers, letting the motorized wheels put a spring in your step.
+这款设计巧妙的鞋的动力源自最先进的无刷直流电动机，实际上就是一个可以附着于各种鞋类的平台，能够显著提升步行速度，据称可达每小时7英里（11千米）。 ||| Powered by a state-of-the-art brushless DC motor, this ingenious contraption is actually a platform that can be attached to a wide variety of footwear to significantly increase your walking speed up to a reported 7mph/11kph.
+相比之下，人类平均步行速度为每小时2.5到4英里。 ||| For comparison, humans’ average walking speed ranges from 2.5 to 4 mph.
+穿着“世界最快鞋”行走的感觉与在机场移动走道上行走的感觉差不多。 ||| The sensation of walking with the world’s fastest shoes has been compared to that of walking on a ‘moving walkway’ in an airport.
+“月球漫步者”由美国卡耐基梅隆大学下属的Shift Robotics公司设计，每双重量为1.9千克的鞋中包含一个300瓦的无刷电机，为8个聚氨酯轮子提供动力。 ||| Designed by Shift Robotics, an offshoot of Carnegie Mellon University, Moonwalkers consist of a 300W brushless motor in each 1.9-kg shoe that powers eight polyurethane wheels.
+鞋子当中还有一个人工智能变速箱，可以根据一系列传感器收集的穿着者步行数据来加快或减慢速度。 ||| There is also an AI-powered gearbox that increases or decreases speed according to data regarding the wearer’s walk collected by a series of sensors.
+这款鞋还能检测到下坡运动以防止事故。 ||| The shoes are also able to detect downhill movement to prevent accidents.
+Shift Robotics公司的创始人兼首席执行官臧迅杰称：“月球漫步者不是旱冰鞋，而是健步鞋，实际上它是全世界走路最快的健步鞋。 ||| “Moonwalkers are not skates. They’re shoes. The world’s fastest shoes actually,” Xunjie Zang, founder and CEO of Shift Robotics said.
+你不是穿着它滑行，而是步行，你无须学习如何使用这种鞋，鞋子会学习你的走路方式。” ||| “You don’t skate in them, you walk, you don’t have to learn how to use them, the shoes learn from you.”
+但是，穿着这款世界最快鞋能否在不平坦的地形上行走或爬楼梯呢？ ||| But do the world’s fastest shoes work on uneven terrain, or things like stairs?
+我们都知道穿旱冰鞋走这种路有多难。 ||| We all know how tricky those are to mitigate in rollerskates.
+不过，显然设计师已经考虑到了这一点，让穿着者用一个简单的动作就可以锁住轮子，这样他们就能像穿普通鞋一样上下楼梯了。 ||| Well, apparently the designers took that into consideration and implemented a simple gesture that allows the wearer to lock the wheels so that they can walk up or down stairs as they would in regular footwear.
+“月球漫步者”近期作为众筹网站Kickstarter的项目推出，目前已经筹到了目标资金9万美元的近两倍。 ||| Moonwalkers were recently unveiled as part of a Kickstarter campaign that has already reached almost double its crowdfunding goal of $90,000.
+第一批鞋子预期将在2023年3月发货，零售价为1399美元。 ||| The first batch is expected to ship in March of 2023, at a retail price of $1,399.
+这个价格不便宜，不过这可不是一双普通的鞋子，而是全世界最快的鞋子。 ||| That’s not cheap, but then again, this isn’t your average pair of shoes, it’s the world’s fastest pair of shoes.

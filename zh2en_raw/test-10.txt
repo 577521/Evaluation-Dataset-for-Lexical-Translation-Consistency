@@ -1,0 +1,16 @@
+人工智能和机器学习的进步受到各国政府关注，他们希望利用这些工具进行预测性用警，以遏制犯罪。 ||| Advances in artificial intelligence and machine learning have sparked interest from governments that would like to use these tools for predictive policing to deter crime.
+然而，早期的犯罪预测工作一直存在争议，没有考虑到警察执法中的系统性偏见及其与犯罪和社会的复杂关系。 ||| However, early efforts at crime prediction have been controversial, because they do not account for systemic biases in police enforcement and its complex relationship with crime and society.
+芝加哥大学数据和社会科学家已经开发了一种新算法，通过从暴力和财产犯罪的公共数据中学习时间和地理位置模式来预测犯罪。 ||| University of Chicago data and social scientists have developed a new algorithm that forecasts crime by learning patterns in time and geographic locations from public data on violent and property crimes.
+该算法成功提前一周预测未来犯罪，准确率约为90%。 ||| It has demonstrated success at predicting future crimes one week in advance with approximately 90% accuracy.
+该研究论文于2022年6月30日发表在《自然——人类行为》杂志上 ||| The new study was published on June 30, 2022, in the journal Nature Human Behavior.
+新模型使用芝加哥市的历史数据，围绕暴力犯罪（杀人、殴打和人身攻击）和财产犯罪（入室盗窃、偷盗和机动车盗窃）两大类报告案件进行测试和验证。 ||| The new tool was tested and validated using historical data from the City of Chicago around two broad categories of reported events: violent crimes (homicides, assaults and batteries) and property crimes (burglaries, thefts, and motor vehicle thefts).
+该模型通过观察离散事件的时间和空间坐标，检测模式以预测未来事件，从而预防犯罪。 ||| The new model isolates crime by looking at the time and spatial coordinates of discrete events and detecting patterns to predict future events.
+它将城市划分为每个大约300米宽的片区，并预测这些区域内的犯罪，而不是依赖传统的邻里或行政边界，因为这些边界也会有偏差。 ||| It divides the city into spatial tiles roughly 1,000 feet across and predicts crime within these areas instead of relying on traditional neighborhood or political boundaries, which are also subject to bias.
+该模型在亚特兰大、奥斯汀、底特律、洛杉矶、费城、波特兰和旧金山这七个美国城市的数据中表现同样出色。 ||| The model performed just as well with data from seven other US cities: Atlanta, Austin, Detroit, Los Angeles, Philadelphia, Portland, and San Francisco.
+该研究论文第一作者、芝加哥大学医学助理教授伊山·查托帕迪亚称谨慎指出，该工具的准确性并不意味着应该将其用于指导执法，让警方主动进入社区预防犯罪。 ||| Ishanu Chattopadhyay, Assistant Professor of Medicine at UChicago and senior author of the study, is careful to note that the tool’s accuracy does not mean that it should be used to direct law enforcement, with police departments using it to swarm neighborhoods proactively to prevent crime.
+相反，它应该应用于城市政策和治安策略中，以应对犯罪。 ||| Instead, it should be added to a toolbox of urban policies and policing strategies to address crime.
+查托帕迪亚说：“我们模拟一个数字化的城市环境。 ||| “We created a digital twin of urban environments.
+如果你向它提供过去发生的数据，它会预测出未来会发生什么。 ||| If you feed it data from happened in the past, it will tell you what’s going to happen in future.
+这并不神奇，也存在一些局限性，但我们对其进行了验证，并且效果非常好。 ||| It’s not magical, there are limitations, but we validated it and it works really well,” Chattopadhyay said.
+现在，你可以把它当作一个模拟工具，看看如果城市某个地区的犯罪率上升，或者另一个地区的执法力度加大，会发生什么。 ||| “Now you can use this as a simulation tool to see what happens if crime goes up in one area of the city, or there is increased enforcement in another area.
+如果你应用所有这些不同的变量，你可以看到系统是如何应对的。” ||| If you apply all these different variables, you can see how the systems evolves in response.”

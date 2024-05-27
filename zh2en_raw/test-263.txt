@@ -1,0 +1,13 @@
+如果你习惯让手机屏幕一直亮着、频繁地手动关闭应用或是在特别寒冷的早晨将手机带到户外，你可能正在伤害你的电池。 ||| You might be abusing your battery, especially if you have a habit of leaving the screen on, shutting down apps or tossing it in your bag on a particularly frigid morning.
+按照智能手机的设置，手机应用退出后会在后台继续运行。 ||| Smartphones are designed to keep apps open in the background.
+强行关闭应用也许会满足你大脑对井然有序的渴望，但因为重新启动应用比唤醒它要消耗更多电量，你每次关闭应用都是在损耗电池。 ||| Forcibly closing them may satisfy that little part of your brain that wants to keep things neat and tidy, but because it takes more juice to start an app fresh than to wake it up, you're beating up on your battery every time you do it.
+所以不要再这么做了！ ||| Stop!
+避免将手机等装电池的设备置于32华氏度以下或95华氏度以上的温度环境中。 ||| Avoid letting the temperature of your battery-powered gadgets dip below 32 degrees Fahrenheit or soar above 95 degrees.
+这两种情况都会损害你的电池，有时候甚至会极大地缩短电池寿命。 ||| In either case, damage can occur, lowering – in some cases, dramatically – the life of your battery.
+赫名迪全球智能设备部高级产品营销经理佩特里·海于吕宁说，将手机电量充到100%似乎是个好主意，但如果你用的是高压充电器，反而会给电池带来压力。 ||| Petri Hayrynen, senior product marketing manager of Global Smart Devices at HMD Global, said that charging your phone to 100% may seem like a good idea, but if you’re using a high-voltage charger, it can put a strain on your battery.
+他说，应该在电量充至80%到90%时就拔出插头，这样才能让电池性能保持最优。 ||| Instead, he said to pull the plug at 80%-90% for optimal usage.
+“老式的镍电池具有记忆效应，这意味着如果你不把电池从最低电量充到100%，镍电池就会‘忘记’自己的最高容量。” ||| “Old nickel-based batteries had a memory effect, which meant that if you didn’t charge them from 1-100%, they started to ‘forget’ their maximum capacity.”
+海于吕宁说：“而现代的锂电池在完全充电和完全放电时受到的压力最大，这两种做法都会减少充电循环次数，从而缩短电池寿命。” ||| “As for the modern-day lithium batteries, the most stress is put on the battery when charging or discharging them fully; both reduce the charging cycles and overall battery life cycle,” Hayrynen said.
+海于吕宁解释道，人们应该“在白天多做一些快速充电”，而不是让智能手机充电一整夜。 ||| Hayrynen explained that people should do “more fast top-ups during the day,” versus charging smartphones overnight.
+尽量保持手机电量在30%以上，时不时地让电池放电来校准传感器，这样能让电池更长时间地保持更佳性能。 ||| Try to keep the battery above 30% or so, letting it discharge occasionally to calibrate the sensors, and you'll keep your battery healthier longer.
+如果想给手机快速充电，可以先调成飞行模式再插上充电器。 ||| To get the absolute fastest charge, toggle on Airplane Mode after plugging it in.

@@ -1,0 +1,14 @@
+科学家发明了一种隐形眼镜，当它检测到眼压升高时，就会释放药物。科学家宣称这种隐性眼镜可辅助治疗青光眼。 ||| A contact lens that can release a drug if it detects high pressure within the eye has been created by scientists who say it could help treat glaucoma.
+青光眼是一种损害视神经的眼病，如不治疗可能导致失明。 ||| Glaucoma is an eye disease that involves damage to the optic nerve, and can lead to blindness if not treated.
+据英国青光眼慈善机构称，原发性开角型青光眼是最常见的一种青光眼疾病，近10%的75岁以上人群患有该眼病。 ||| According to the charity Glaucoma UK, the most common form of the disease, known as primary open angle glaucoma, is thought to affect almost 10% of people older than 75.
+原发性开角型青光眼通常是由眼内压力增加引起的。眼压升高通常是由液体积聚造成的。 ||| This form is generally caused by increased pressure within the eye, usually as a result of a buildup of fluid.
+中国科研人员表示，他们已经研制出一种隐形眼镜，可以感知眼压的升高，并在压力超过一定水平时释放抗青光眼药物。 ||| Researchers in China revealed they have developed a contact lens that can sense an increase in pressure within the eye and release an anti-glaucoma drug should the pressure exceed a certain level.
+该团队在《自然通讯》杂志上发表文章，描述了他们如何利用上下两块镜片创造出这个设备的，在两块镜片之间的边缘夹着雪花状压力传感器和无线电力传输装置。 ||| Writing in the journal Nature Communications, the team describe how they created the device using an upper and lower lens, with a snowflake-shaped pressure sensor and wireless power transfer device sandwiched between them around the rim of the lenses.
+当眼内压力增加时，上下镜片之间的间隙就会减少。 ||| When the pressure inside the eye increases, the gap between the upper and lower lenses decreases.
+压力传感器通过一个悬臂检测到这一点。 ||| This is detected by the pressure sensor by means of a cantilever.
+然后，该传感器向无线系统发送信号，随后触发抗青光眼药物的释放，并使其穿过眼角膜。 ||| The sensor then sends a signal to the wireless system which subsequently triggers the release of an anti-glaucoma drug, from a hydrogel attached to an electrode, and enables it to cross the cornea of the eye.
+该药物来自连接到电极的水凝胶，名为溴硝柳胺，可以降低眼压。 ||| The drug, brimonidine, acts to reduce the pressure within the eye.
+这项研究表明，尽管隐形眼镜的尺寸较小，但目前为止已经在猪的眼睛和活兔子的眼睛上进行了测试，尚未进行人体试验。 ||| The study reveals that the contact lenses have so far been tested on pigs’ eyes and on the eyes of living rabbits – albeit with smaller-sized lenses – although trials have yet to be carried out in humans.
+研究人员指出，这种镜片不仅柔软、无创，而且无需电池，这种方法可以扩展到辅助治疗其他眼部疾病。 ||| The researchers note the lenses are not only soft and minimally invasive but are also battery-free, adding that the approach could be expanded to help tackle other eye diseases.
+伯明翰大学炎症与衰老研究所的祖拜尔·阿赫默德教授没有参与这项研究，他称这项研究成果激动人心，眼压升高对大多数青光眼患者来说是一个严重问题。 ||| Prof Zubair Ahmed from the Institute of Inflammation and Ageing at the University of Birmingham, who was not involved in the work, said the research was potentially very exciting, adding that a rise in pressure within the eye was a significant problem for most people with glaucoma.
+阿赫默德还称：“制造这种隐形眼镜所需的材料价格低廉，很快就能大规模生产。” ||| “The materials required to create such contact lenses are inexpensive and soon could be mass-produced,” he added.

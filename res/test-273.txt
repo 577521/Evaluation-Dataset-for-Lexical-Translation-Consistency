@@ -1,0 +1,4 @@
+['国际/0/0', '国际/2/19', 'international'] 
+['防控/0/8', '防控/7/4', 'prevention and control'] 
+['措施/8/19', '措施/12/41', 'measures'] 
+['成功/10/1', '成功/10/6', 'success'] 

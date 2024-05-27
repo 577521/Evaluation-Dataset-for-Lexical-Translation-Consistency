@@ -1,0 +1,11 @@
+这辆来自荷兰的运动型电动汽车外观酷似宝马跑车，但却有其独特之处：它吸收的碳比排放的碳要多。 ||| The sporty all-electric car from the Netherlands resembles a BMW coupe, but is unique: It captures more carbon than it emits.
+荷兰埃因霍温理工大学的学生团队TU/ecomotive是这款汽车的研发者，团队财务经理延斯·拉海耶称：“我们的最终目标是创造一个更可持续的未来。” ||| "Our end goal is to create a more sustainable future," said Jens Lahaije, finance manager for TU/ecomotive, the Eindhoven University of Technology student team that created the car.
+拉海耶称，他们将这辆双座车命名为ZEM，也就是zero emission mobility的缩写，车上装有Cleantron公司的锂电池组，车体大部分部件由回收塑料3D打印而成。 ||| Called ZEM, for zero emission mobility, the two-seater houses a Cleantron lithium-ion battery pack, and most of its parts are 3D-printed from recycled plastics, Lahaije said.
+拉海耶还表示，他们的目标是从汽车制造到报废回收的整个周期内，最大限度地减少二氧化碳排放。 ||| The target is to minimize carbon dioxide emitted during the car's full lifespan, from manufacturing to recycling, he added.
+与燃油车相比，电动车在运行过程中几乎不排放二氧化碳，但生产电池会产生大量污染，因此当车辆行驶里程达到数万英里时，电动车的全周期碳排放与燃油车相当。 ||| Battery electric vehicles emit virtually no CO2 during operation compared with combustion-engine vehicles, but battery cell production can create so much pollution that it can take EVs tens of thousands of miles to achieve "carbon parity" with comparable fossil-fueled models.
+直接空气捕捉技术是一种通过将二氧化碳捕获到过滤器中来净化空气的全新方法。 ||| Direct air capture is a fairly new method of cleaning the air by capturing CO2 into a filter.
+我们将这项创新技术应用到我们的汽车上。 ||| We have made use of this innovative technology and implemented this in our car.
+这个想法很简单：在车辆行驶时，空气将通过我们自行设计的过滤器，其中的二氧化碳将被过滤器捕获和储存。 ||| The idea is very simple: while driving, air will move through our self-designed filters and the CO2 will be captured and stored.
+埃因霍温团队估测，ZEM的两个过滤器可以在20000英里的行驶里程中捕获高达2千克的二氧化碳。 ||| ZEM uses two filters that can capture up to 2 kilograms (4.41 lb) of CO2 over 20,000 miles of driving, the Eindhoven team estimated.
+他们设想未来可以在充电站将过滤器中的二氧化碳清空。 ||| They imagine a future when filters can be emptied at charging stations.
+从东海岸到硅谷，学生们正在美国的大学和公司巡回展示他们的汽车。 ||| The students are showing their vehicle on a US promotional tour to universities and companies from the East Coast to Silicon Valley.

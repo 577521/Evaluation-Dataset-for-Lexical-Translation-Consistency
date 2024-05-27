@@ -1,0 +1,13 @@
+如果 你 习惯 让 手机 屏幕 一直 亮 着 、 频繁 地 手动 关闭 应用 或是 在 特别 寒冷 的 早晨 将 手机 带到 户外 ， 你 可能 正在 伤害 你 的 电池 。 ||| You might be abusing your battery , especially if you have a habit of leaving the screen on , shutting down apps or tossing it in your bag on a particularly frigid morning .
+按照 智能 手机 的 设置 ， 手机 应用 退出 后 会 在 后台 继续 运行 。 ||| Smartphones are designed to keep apps open in the background .
+强行 关闭 应用 也许 会 满足 你 大脑 对 井然有序 的 渴望 ， 但 因为 重新 启动 应用 比 唤醒 它 要 消耗 更 多 电量 ， 你 每次 关闭 应用 都 是 在 损耗 电池 。 ||| Forcibly closing them may satisfy that little part of your brain that wants to keep things neat and tidy , but because it takes more juice to start an app fresh than to wake it up , you 're beating up on your battery every time you do it .
+所以 不要 再 这么 做 了 ！ ||| Stop !
+避免 将 手机 等 装 电池 的 设备 置于 32 华氏度 以下 或 95 华氏度 以上 的 温度 环境 中 。 ||| Avoid letting the temperature of your battery - powered gadgets dip below 32 degrees Fahrenheit or soar above 95 degrees .
+这 两 种 情况 都 会 损害 你 的 电池 ， 有时候 甚至 会 极 大 地 缩短 电池 寿命 。 ||| In either case , damage can occur , lowering – in some cases , dramatically – the life of your battery .
+赫名迪 全球 智能 设备部 高级 产品 营销 经理 佩特里 · 海于吕宁 说 ， 将 手机 电量 充到 100% 似乎 是 个 好 主意 ， 但 如果 你 用 的 是 高压 充电器 ， 反而 会 给 电池 带来 压力 。 ||| Petri Hayrynen , senior product marketing manager of Global Smart Devices at HMD Global , said that charging your phone to 100 % may seem like a good idea , but if you ’re using a high - voltage charger , it can put a strain on your battery .
+他 说 ， 应该 在 电量 充至 80% 到 90% 时 就 拔出 插头 ， 这样 才 能 让 电池 性能 保持 最 优 。 ||| Instead , he said to pull the plug at 80% - 90 % for optimal usage .
+“ 老式 的 镍电池 具有 记忆 效应 ， 这 意味 着 如果 你 不 把 电池 从 最 低 电量 充到 100% ， 镍电池 就 会 ‘ 忘记 ’ 自己 的 最高 容量 。 ” ||| “ Old nickel - based batteries had a memory effect , which meant that if you did n’t charge them from 1 -100 % , they started to ‘ forget ’ their maximum capacity . ”
+海于吕宁 说 ： “ 而 现代 的 锂电池 在 完全 充电 和 完全 放电 时 受到 的 压力 最 大 ， 这 两 种 做法 都 会 减少 充电 循环 次数 ， 从而 缩短 电池 寿命 。 ” ||| “ As for the modern - day lithium batteries , the most stress is put on the battery when charging or discharging them fully ; both reduce the charging cycles and overall battery life cycle , ” Hayrynen said .
+海于吕宁 解释 道 ， 人们 应该 “ 在 白天 多 做 一些 快速 充电 ” ， 而 不 是 让 智能 手机 充电 一 整 夜 。 ||| Hayrynen explained that people should do “ more fast top - ups during the day , ” versus charging smartphones overnight .
+尽量 保持 手机 电量 在 30% 以上 ， 时不时 地 让 电池 放电 来 校准 传感器 ， 这样 能 让 电池 更 长 时间 地 保持 更 佳 性能 。 ||| Try to keep the battery above 30 % or so , letting it discharge occasionally to calibrate the sensors , and you 'll keep your battery healthier longer .
+如果 想 给 手机 快速 充电 ， 可以 先 调成 飞行 模式 再 插上 充电器 。 ||| To get the absolute fastest charge , toggle on Airplane Mode after plugging it in .

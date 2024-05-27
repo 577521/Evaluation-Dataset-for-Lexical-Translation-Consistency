@@ -1,0 +1,9 @@
+人的年龄可以分为时序年龄和生理年龄。时序年龄指一个人实际度过的时间，生理年龄则指从生理机能上一个人看起来有多大。 ||| Humans have two different ages. There is chronological age, which measures how much time a person has spent on Earth, and then there is biological age, referring to how old a person seems.
+饮食、锻炼和心理状态等许多日常因素都会影响一个人的生理年龄。 ||| Many lifestyle factors like diet, exercise and psychological state can impact someone's biological age.
+香港寿康集团、香港中文大学和斯坦福大学的一项新研究发现，悲伤、孤独、痛苦等影响心理健康的情绪会使人的生理年龄变老1.65岁。 ||| A new study from Deep Longevity, the Chinese University of Hong Kong and Stanford University found that feelings that cause poor mental health like sadness, loneliness and general unhappiness add an extra 1.65 years to a person's biological age.
+该研究还称，吸烟使生理年龄变老1.25岁，失眠导致生理年龄增加0.44岁。 ||| Meanwhile, smoking can add up to 1.25 years and suffering from restless sleep can add 0.44 years to a person's biological age, according to the study.
+研究人员表示，他们依据2015年收集的4846名中国成年人的数据提出了一个新的“衰老时钟”。这些数据来自中国健康与养老追踪调查研究项目。 ||| As part of the study, researchers said they came up with a new “aging clock” based on data from 4,846 Chinese adults in 2015 as part of the China Health and Retirement Longitudinal Study.
+研究数据包括16种血液生物标记物，如胆固醇、血糖水平，以及血压、体重指数、肺功能和性别等其他健康信息。 ||| The data included 16 blood biomarkers like cholesterol and glucose levels as well as other health information like blood pressure, body mass index, lung function and sex.
+研究人员将参与者的时序年龄与通过“衰老时钟”预测的参与者年龄进行比较。 ||| Researchers compared the chronological age of CHARLS participants with the ages predicted by their new “aging clock.”
+结果发现，研究对象的预测年龄大约比他们的实际年龄大5.6岁左右。 ||| The results found that the new age was roughly 5.6 years older than the CHARLS participants' actual ages.
+研究小组还发现，吸烟和有中风、肝病或肺病病史的人的预测年龄比其余4451名健康成年人的年龄更大。 ||| The team also found that smokers and those with a history of stroke, liver or lung disease were predicted to be older than the remaining 4,451 healthy adults in the cohort.

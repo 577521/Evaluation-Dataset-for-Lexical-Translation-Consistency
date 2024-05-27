@@ -1,0 +1,20 @@
+一项新研究发现，蚂蚁能嗅出人体内的癌细胞，这表明蚂蚁可用于未来对癌症的诊断。 ||| Ants have the ability to sniff out cancerous cells in humans, a new study has discovered, suggesting they could be used for cancer diagnosis in future.
+法国国家科学研究中心的研究人员发现，丝光褐林蚁的嗅觉非常发达。 ||| Researchers from the French National Centre for Scientific Research (CNRS) discovered that ant species Formica fusca has a well developed sense of smell.
+有限的试验显示，这种蚂蚁的嗅觉超强，能够将人体的癌细胞同健康细胞区分开来。 ||| It was able to differentiate cancerous cells from healthy cells in humans, thanks to their sense of smell, limited trials revealed.
+但是该研究团队表示，还需要进行更多临床测试才能将丝光褐林蚁用于医院等临床环境中。 ||| But more clinical tests must be carried out before they could be used in clinical settings like hospitals, the team said.
+研究人员指出，未来在识别人体癌细胞方面，蚂蚁可能会比狗做得更出色。 ||| They suggest that in future, ants could turn out to be better at dogs when it comes to locating cancerous cells in humans.
+为了开展这一研究，科学家用36只蚂蚁进行了测试，让它们在实验室环境中闻细胞的气味。 ||| To conduct their research, the scientists performed tests with 36 ants, smelling cells under a laboratory setting.
+首先，科学家让蚂蚁闻一份人体癌细胞的样本，每当蚂蚁闻癌细胞，就会给它们糖液奖励。 ||| First, the specialists exposed the ants to the smell of a sample of cancerous human cells. This odor was then associated with a reward of sugar solution.
+接下来，研究人员让蚂蚁闻两种不同的气味。 ||| In a second step, the researchers exposed the ants to two different odors.
+一种是新气味，另一种是癌细胞的气味。 ||| One was a new smell and the second was the smell of the cancerous cells.
+这一测试获得成功后，研究人员又让蚂蚁闻两种不同的癌细胞。 ||| Once this test was successful, the researchers exposed the ants to different cancerous cells.
+于是，科学家发现“蚂蚁能将癌细胞和健康细胞区分开来，也能分辨不同的癌细胞”。 ||| As such, the scientists found that 'ants discriminate between cancerous and healthy cells and between two cancerous lines.'
+经过训练，丝光褐林蚁能够识别出癌细胞散发出的挥发性有机化合物。 ||| After training, Formica fusca ants are able to detect volatile organic compounds emitted by cancerous cells.
+法国国家科学研究中心在一份新闻稿中指出：“这项初步研究表明，蚂蚁拥有巨大的潜力和快速的学习能力，不仅成本低还高效。” ||| 'This first study shows that ants have high potential, are capable of learning very quickly, at lower cost, and are efficient,' points out CNRS in a news release.
+这不是科学家第一次利用动物嗅觉来识别癌细胞。 ||| This isn't the first time that scientists have used the animal sense of smell to locate cancerous cells.
+研究人员解释道：“狗鼻子很适合用于医疗诊断以及识别癌细胞（的挥发性有机化合物）。” ||| 'Dogs' noses are well suited for medical diagnosis and used for the detection of cancer-specific [volatile organic compounds],' the researchers explained.
+但是，让狗学会识别癌细胞需要长达几个月至一年的训练。 ||| However, training them to do so requires several months to a year.
+研究人员指出，与此同时，“在受控条件下养殖昆虫很容易，成本低廉，而且昆虫嗅觉发达，只需几次测试就能训练出数百只昆虫。” ||| On the other hand, 'insects can be easily reared in controlled conditions, they are inexpensive, they have a very well-developed olfactory system and hundreds of individuals can be conditioned with very few trials,' the researchers point out.
+该团队解释说：“因此蚂蚁作为识别癌细胞挥发物的工具，既快速、高效、廉价，辨别力又强。” ||| 'Ants therefore represent a fast, efficient, inexpensive, and highly discriminant detection tool for detection of cancer cell volatiles,' the team explained.
+“我们的方法未来也可用于其他一系列复杂的气味识别任务，包括识别毒品、爆炸物、过期食品或疟疾、传染病、糖尿病等疾病。” ||| 'Our approach could potentially be adapted to a range of other complex odor detection tasks including the detection of narcotics, explosives, spoiled food, or other diseases, including malaria, infections, and diabetes.'
+这一研究结果被发表在《交叉科学》期刊上。 ||| The findings have been published in the journal iScience.

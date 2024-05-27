@@ -1,0 +1,17 @@
+足球比赛中，如果球出界了，应该由裁判来判罚。 ||| If the ball goes out of bounds in say, a soccer game, it’s up to the referees to call the violation.
+但是在一场高水平冰壶比赛中，冰壶可以自己担任监督之责，这要感谢冰壶上的红灯和绿灯。 ||| But in a high-level curling match, the stones are somewhat self-policing—thanks to the red and green lights atop each one.
+只要冰壶运动员在冰壶过第一条红线（前掷线）前松开手，冰壶上的绿灯就会一直亮着，比赛将会继续进行。 ||| As long as the curler releases the stone before the front of it crosses the first red line (the “hog line”), the lights will stay green, and play will continue.
+如果你看见冰壶亮起了红灯，这意味着冰壶运动员的手放在手柄上的时间过长，将被视为犯规。 ||| If you see the red lights come on, that means the curler kept their hand on the handle too long, committing a hog line violation.
+这次投掷被判为无效，冰壶将被迅速拿离冰面，这样才不会干扰冰壶赛场上的其他冰壶。 ||| The shot is disqualified, and the stone is quickly removed so it doesn’t interfere with other stones on the curling sheet.
+这套名为“前掷线上的眼睛”的检测系统要追溯到20世纪90年代末，当时萨斯喀彻温大学的工程学教授埃里克·索尔特建议他的一些高级电子电气工程系学生把研发这套系统作为课题项目。 ||| The detection system, called “Eye on the Hog,” dates back to the late 1990s, when University of Saskatchewan engineering professor Eric Salt suggested that some of his advanced electrical engineering students invent one for a class project.
+学生们在索尔特的帮助下成功研发出了这套检测系统，加拿大工程公司Startco将他们的设计修改之后推向了市场。 ||| With his help, they did, and Canadian engineering company Startco modified their design and brought it to market.
+加拿大冰壶协会很快就正式采用了这一技术，从此“冰壶之眼”就越来越受欢迎。 ||| The Canadian Curling Association soon adopted it for official use, and its popularity grew from there.
+从基本原理来说，前掷线后方的冰面下方嵌有一块磁条。 ||| Basically, there’s a magnetic strip installed beneath the ice slightly behind the hog line.
+冰壶内部有一个电路，当人触碰手柄时，电流会受影响。 ||| Inside the stone is an electrical circuit whose current is affected when you’re touching the handle.
+如果在冰壶过了磁条位置后运动员还触碰手柄，就会启动电池供电的红灯。 ||| If you’re still touching the handle when the stone crosses the in-ice magnet, it’ll set off the battery-operated red LEDs.
+在冰壶到达磁条位置之前松开手柄，绿灯就会一直闪烁，直到冰壶到达磁条位置。 ||| Release the handle before the stone reaches the magnet and the green lights will flash until the stone gets there.
+这时绿灯会停止闪烁并一直亮着，表明这次投掷是有效的。 ||| At that moment, the flashing will switch to a steady green to indicate that the release was valid.
+这套系统的原理也解释了为什么冰壶运动员投掷冰壶的那只手不能戴手套。 ||| This system also explains why the player releasing the stone doesn’t wear a glove on their delivery hand.
+这是不被允许的，因为手套触碰冰壶无法被感应到。 ||| They’re not allowed to, since gloves inhibit the touch sensor.
+由于参加奥运会的都是高水平的冰壶运动员，所以前掷线犯规在奥运会冰壶比赛中并不常见，因此你很少看见红灯亮起来。 ||| Due to the high caliber of Olympic curlers, hog line violations aren’t common in Olympic curling matches—so you don’t often get to see the red lights in action.
+但是在2月3日意大利对战挪威的混双冰壶比赛中，意大利选手斯特凡尼娅·康斯坦丁尼的手放在冰壶手柄上的时间稍微长了一点，红灯就马上亮了起来。（不过意大利队最后还是赢了。） ||| But they came in handy when Italy’s Stefania Constantini kept her hand on the handle just a bit too long during a mixed doubles match against Norway on February 3. (Italy still won.)

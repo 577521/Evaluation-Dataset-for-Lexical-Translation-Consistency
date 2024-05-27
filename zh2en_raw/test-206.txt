@@ -1,0 +1,17 @@
+虽然蟑螂机器人听起来很恐怖，但是它其实是人类的朋友而非敌人。 ||| While it may sound like something that has crawled out of your nightmares, cyborg cockroaches have arrived as friends rather than foes.
+日本科学家设计了一款新型遥控蟑螂机器人，它配备了由太阳能电池板供电的电池“背包”。 ||| Scientists in Japan have designed a new remote-controlled insect, equipped with a battery 'backpack' that is powered by solar panels.
+这种蟑螂机器人是蟑螂和机器人的混合体，无需充电，用于进入危险区域，监测环境或执行搜救援任务。 ||| The cockroach, which is part insect and part machine, is intended to enter hazardous areas, monitor the environment or undertake search and rescue missions without needing to be recharged.
+来自RIKEN Cluster的研究人员进行了开创性的研究，他们必须将一些组件安装到一个小背包中，以便让蟑螂自由行动。 ||| The researchers from the RIKEN Cluster for Pioneering Research had to install some components into a tiny pack to allow for all the roach's natural movements.
+研究报告的主要作者福田健次郎称：“安装在蟑螂机器人身体上的超薄有机太阳能电池模块的输出功率为17.2兆瓦，比目前最先进的昆虫能量收集装置的输出功率高出50多倍。” ||| Lead author Kenjiro Fukuda said: 'The body-mounted ultrathin organic solar cell module achieves a power output of 17.2 mW, which is more than 50 times larger than the power output of current state-of-the art energy harvesting devices on living insects.
+众所周知，蟑螂能够在核战争中幸存下来，近年来，它一直是许多技术的灵感来源。 ||| Famously able to survive a nuclear war, cockroaches have been the inspiration for a number of technologies in recent years.
+一些科学家团队设计了可遥控的昆虫机器人，它们可以在搜救援任务中穿墙、携带物体和寻找人类。 ||| Different teams of scientists have designed remote-controlled robo-bugs that can scale walls, carry objects and find humans during search-and-rescue missions.
+蟑螂机器人是有生命的，但连接在蟑螂腹部末端的两个感觉器官“尾蚴”上的电线发出电脉冲，控制它左右移动。 ||| The cockroaches are still alive, but wires attached to their two 'cerci' - sensory organs on the end of their abdomens - send electrical impulses that cause the insect to move right or left.
+发送和接收这些电流信号需要电池，而电池需要充电。 ||| A battery is necessary for the sending and receiving of these electrical signals, which needs to be charged up.
+虽然可以建造充电站为电池充电，但返回充电可能会使时间紧迫的任务中断。 ||| While it's possible to build docking stations for recharging the battery, the need to return and recharge could disrupt time-sensitive missions.
+RIKEN团队希望打造一个更实用的蟑螂机器人，在电源耗尽时不需要返回充电站。 ||| The RIKEN team wanted to create a more practical version that did not need to return to a docking station when it ran out of power.
+因此，他们设计了一种太阳能电池，可以持续确保蟑螂在工作时保持充电。 ||| Therefore, they designed an on-board solar cell that could continuously ensure that the cockroach stays charged while it works.
+然而，蟑螂的大小限制了它可以携带的腿部遥控组件的大小。 ||| However, cockroaches have a limited surface area available for all the components necessary to move its legs and keep it powered.
+于是研究人员设计了一种特殊的背包，以便于蟑螂携带遥控模块和可充电锂聚合物电池。这一研究成果发表在《npj-柔性电子》上。 ||| The solution, published in npj Flexible Electronics, was to design a special 'backpack' that could neatly carry both the wireless leg-control module and rechargeable lithium polymer battery.
+研究人员将背包固定在蟑螂的胸腹上部，并运用3D打印技术使其完美贴合马达加斯加蟑螂的身体。 ||| This was attached to the top of the insect on its thorax, and was 3D printed to fit perfectly to the curved surface of the Madagascar cockroach or Gromphadorhina portentosa.
+这种电子设备可以固定在蟑螂身上一个多月，同时还留出空间给蟑螂植入太阳能电池板。 ||| It allowed for this electronic device to be stably mounted on the insect for over a month, while leaving space elsewhere on the body to implant the solar panel.
+0.004毫米厚的有机太阳能电池模块安装在蟑螂腹部的背侧。 ||| The 0.004 mm thick organic solar cell module was mounted on the dorsal side of the roach's abdomen.

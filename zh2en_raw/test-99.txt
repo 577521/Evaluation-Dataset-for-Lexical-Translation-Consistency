@@ -1,0 +1,16 @@
+担心自己的矮个子会遗传给孩子的父母可以放宽心了，因为新研究发现，对一个人的身高而言，营养比遗传更重要。 ||| Parents worried that they may pass on their short stature to their children can rest easy as a new study reveals nurture is more important than nature when it comes to a person’s height.
+一项具有里程碑意义的研究发现，影响一个人身高的基因超过1.2万个，然而在决定身高上，遗传因素只占40%。 ||| A landmark piece of research has found that more than 12,000 genes are responsible for determining how tall a person becomes, but this hereditary aspect is just 40 percent of the picture.
+另外60%取决于环境、养育和生活质量等后天特性。 ||| The other 60 percent is caused by nurture-based traits like environment, upbringing and quality of life.
+这项研究在分析了逾540万人的资料后发现，决定身高的DNA片段存在于与骨骼生长有关的部分基因组中。 ||| Analysis of more than 5.4 million people discovered the culpable chunks of DNA involved in height determination and found them to live in parts of the genome which are responsible for skeletal growth.
+该研究的作者、伦敦玛丽女王大学计算生物学副教授艾利尼·马柔里博士告诉《每日电讯报》：“我们的研究在500多万参与者中识别出了12111个与身高有关的基因标记（单核苷酸多态性）。” ||| "Our study identified 12,111 genetic markers – or single nucleotide polymorphisms (SNPs) – associated with height in more than five million individuals from participating studies,” study author Dr Eirini Marouli, associate professor in computational biology at Queen Mary University of London, told The Telegraph.
+“这些基因标记解释了欧洲血统者身高差异的40%以及非欧洲血统者身高差异的10-20%。” ||| "These explain 40 percent of height variation in individuals of European ancestries and between 10-20 percent in non-European populations.”
+但是她也指出，基因与其“复杂表现”只能解释其中一部分。 ||| But she added that genetics and its “complex manifestation” are just one part of the explanation.
+马柔里博士称：“其他可能影响身高的方面包括：医疗进步、营养、生活方式和环境因素。” ||| "Additional aspects could potentially include: advancement in healthcare, nutrition, lifestyle and environmental factors,” Dr Marouli said.
+这项发表在《自然》上的研究还单独根据基因预测了一个人的身高，并发现这一预测结果比根据父母身高预测孩子身高的现有方法更为准确。 ||| The study, published in Nature, also predicted how tall a person would become based on their genes alone and was found to be more accurate than the current method which estimates a child’s length by the height of their parents.
+马柔里博士解释道：“传统上我们用家族史来预测孩子的身高，但这个方法并不理想。” ||| "Traditionally we use family history to predict a child’s height, but this isn’t a perfect method,” Dr Marouli explained.
+“例如，用这种方法来预测兄弟姐妹的身高差异就不是很准确。” ||| "For example, it’s not very accurate in predicting height differences such as those amongst siblings.
+“通过观测单核苷酸多态性或基因标记的变化则可能会给出更准确的预测结果。” ||| "Using single nucleotide polymorphisms (SNPs), or markers of changes in our DNA, could have the potential to give a more accurate prediction.
+提高身高预测的准确性对于医疗保健很有用。 ||| This more accurate height prediction could be useful in healthcare.
+举例而言，如果一个孩子没有达到预期身高，则可能意味着存在影响长高的潜在条件，比如激素缺乏。 ||| For example, if a child does not reach their predicted height, it could indicate that there might be an underlying condition that might be affecting growth, for example, related to hormonal deficiencies.
+“如果我们把识别出的所有基因变量与最佳的多基因评分相结合，再综合考虑父母的平均身高，对孩子身高的预测准确度则可以提高到54%以上。” ||| "When we combined all the identified genetic variants together into our best polygenic score along with the parental height average that led to an accuracy of more than 54 percent."
+“因此，根据基因变量来做出的身高预测可能会更准确。” ||| "Thus, having a prediction based on genetic changes could potentially provide more accuracy.”
